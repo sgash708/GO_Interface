@@ -8,7 +8,7 @@ import (
 
 func main() {
 	s := people.NewStudent("taro")
-	name := s.GetName()
+	studentName := s.GetName()
 
-	fmt.Println(name)
+	fmt.Println(studentName)
 }
