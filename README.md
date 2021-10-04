@@ -1,0 +1,2 @@
+# Go_Interface
+Interfaceを活用できるようになる
