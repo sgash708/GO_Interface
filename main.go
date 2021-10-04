@@ -10,5 +10,8 @@ func main() {
 	s := people.NewStudent("taro")
 	studentName := s.GetName()
 
-	fmt.Println(studentName)
+	t := people.NewTeacher("George")
+	teacherName := t.GetName()
+
+	fmt.Println(studentName, teacherName)
 }
