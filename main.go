@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	people "github.com/sgash708/GO_Interface/People"
+	people "github.com/sgash708/GO_Interface/people"
 )
 
 func main() {
